@@ -1,0 +1,18 @@
+2024-04-30 05:03:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Male"; SQL statement:
+select * from STUDENT  where studentName = ? and gender =? [22018-214]
+2024-04-30 05:03:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Male"; SQL statement:
+select * from STUDENT  where studentName = ? and gender =? [22018-214]
+2024-04-30 05:05:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Male"; SQL statement:
+select * from STUDENT  where studentName = ? and gender =? [22018-214]
+2024-04-30 05:06:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Male"; SQL statement:
+select * from STUDENT  where studentName = ? and gender =? [22018-214]
+2024-04-30 05:09:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Male"; SQL statement:
+select * from STUDENT  where studentName = ? and gender =? [22018-214]
+2024-04-30 05:10:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "Male"; SQL statement:
+select * from STUDENT  where studentName = ? and gender =? [22018-214]
